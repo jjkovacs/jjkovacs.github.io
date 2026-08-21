@@ -2,3 +2,5 @@
 
 User-agent: *
 Disallow:
+
+Sitemap: https://portfolio.jameskovacs.io/sitemap.xml
